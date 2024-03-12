@@ -7,8 +7,7 @@ export default function About() {
       <section className='custom-section'>
         <h2>About Us</h2>
         <p>
-          Welcome to OrdersGo, where we are dedicated to providing exceptional services for your business needs. With a focus on quality, innovation, and customer satisfaction, we aim to be your go-to platform for various services.
-        </p>
+hghdsj        </p>
       </section>
 
       <section className='custom-section'>
