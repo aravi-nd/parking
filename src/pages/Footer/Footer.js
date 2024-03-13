@@ -31,33 +31,32 @@ export default function footer() {
             <MDBCol md="3" lg="4" xl="3" className='mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>
                 <MDBIcon icon="gem" className="me-3 " />
-                Orders Go
+                PARK!T
               </h6>
               <p>
-                Welcome to OrdersGo – your go-to source for top-notch tools! Explore our streamlined platform for a hassle-free shopping experience. Find high-quality hand tools, power tools, and accessories from leading brands. At OrdersGo, we prioritize simplicity, affordability, and customer satisfaction. Elevate your tool collection with ease – start shopping now!
-              </p>
+JHFJLJKJ              </p>
             </MDBCol>
 
             <MDBCol md="2" lg="2" xl="2" className='mx-auto mb-4'>
-              <h6 className='text-uppercase fw-bold mb-4'>Products</h6>
+              <h6 className='text-uppercase fw-bold mb-4'>SERVICES</h6>
               <p>
                 <a href='#!' className='text-reset link-no-decoration'>
-                  JackHammer
+                  
                 </a>
               </p>
               <p>
                 <a href='#!' className='text-reset link-no-decoration'>
-                  Guage
+                  
                 </a>
               </p>
               <p>
                 <a href='#!' className='text-reset link-no-decoration'>
-                  Hammer
+                  
                 </a>
               </p>
               <p>
                 <a href='#!' className='text-reset link-no-decoration'>
-                  Anival
+                  
                 </a>
               </p>
             </MDBCol>
@@ -76,7 +75,7 @@ export default function footer() {
               </p>
               <p>
                 <a href='#!' className='text-reset link-no-decoration'>
-                  Orders
+                  BOOKIGNG
                 </a>
               </p>
               <p>
@@ -90,17 +89,17 @@ export default function footer() {
               <h6 className='text-uppercase fw-bold mb-4'>Contact</h6>
               <p>
                 <MDBIcon icon="home" className="me-2" />
-                New York, NY 10012, US
+                GEC PKD
               </p>
               <p>
                 <MDBIcon icon="envelope" className="me-3" />
-                info@ordersGo.com
+                park!t@gmail.com
               </p>
               <p>
-                <MDBIcon icon="phone" className="me-3" /> + 01 234 567 88
+                <MDBIcon icon="phone" className="me-3" />8921287515
               </p>
               <p>
-                <MDBIcon icon="print" className="me-3" /> + 01 234 567 89
+                <MDBIcon icon="print" className="me-3" /> 
               </p>
             </MDBCol>
           </MDBRow>

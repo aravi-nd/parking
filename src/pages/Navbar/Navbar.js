@@ -28,7 +28,7 @@ function BasicExample() {
   return (
     <div className={`navbar ${isActive ? 'active' : ''}`}>
     
-      <div className="brand">Orders Go</div>
+      <div className="brand">PARK!T</div>
       <ul className={isActive ? 'show' : ''}>
         <li><Link to="/Home">Home</Link></li>
         <li><Link to="/About">About</Link></li>

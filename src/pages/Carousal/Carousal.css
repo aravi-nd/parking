@@ -1,6 +1,7 @@
 .carousel-custom {
-    height: 10vh;
-    border-radius: 30px;
+    height: 15vh;
+    width: 15cm;
+    border-radius: 10px;
     margin: 40px;
     object-fit: cover;
 }
@@ -23,9 +24,20 @@
 }
 
 .custom-form button {
-    margin: 10px;
-    border-radius: 10px;
-    color: gainsboro;
+    /* margin: 5px;
+    border-radius: 5px;
+    color: rgb(20, 227, 23); */
+    display: inline-block;
+    padding: 10px 10px; /* Adjust padding as needed */
+    font-size: 10px; /* Adjust font size as needed */
+    font-weight: bold; /* Adjust font weight as needed */
+    text-align: center;
+    text-decoration: none; /* Removes default underline */
+    border: none; /* Removes default button border */
+    border-radius: 5px; /* Rounds the button corners */
+    color: #ffffff; /* Text color */
+    background-color: #65a5eb; /* Background color */
+    
 }
 
 .carousal-input {
