@@ -23,8 +23,8 @@ export default function CustomCarousel() {
         <img className="d-block carousel-custom " src="https://media.istockphoto.com/id/1289128767/photo/young-indian-businessman-or-employee-sitting-in-car-and-giving-card.jpg?s=612x612&w=0&k=20&c=arrE2_o1hS0gDugcPFTGffNMnYgVTLveVAluPKe6ghQ=" alt="Second slide" />
         <Carousel.Caption>
           <div className='my-custom-caption'>
-          <h1></h1>
-          <p></p>
+          <h1> FIND NEAREST PARKING SLOT</h1>
+          <p>Avoid getting late by finding a parking spot near to you</p>
           </div>
         </Carousel.Caption>
       </Carousel.Item>
@@ -32,8 +32,8 @@ export default function CustomCarousel() {
         <img className="d-block carousel-custom " src="https://media.istockphoto.com/id/1452170197/photo/aerial-view-of-rows-of-new-cars.jpg?s=2048x2048&w=is&k=20&c=GT3lKYqokn7wWk3EWDWyI8QmEoRs4R4N2LMn5zbpd3Q=" alt="Third slide" />
         <Carousel.Caption>
         <div className='my-custom-caption'>
-       <h1></h1>
-       <p></p>
+       <h1>SEARCH,DISCOVER&PARRK</h1>
+       <p>Reserve your parking slot and enjoy hassle free parking</p>
        </div>
         </Carousel.Caption>
       </Carousel.Item>

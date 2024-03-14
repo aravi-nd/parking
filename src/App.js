@@ -10,6 +10,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import SignUp from './pages/SignUp/SignUp.js'; 
 import './App.css';
 import Profile from './pages/Profile/Profile.js'
+import ViewSlot from './pages/ViewSlot/ViewSlot.js';
 
 import {
   BrowserRouter as Router,
@@ -37,6 +38,8 @@ function App() {
             <Route path='/Login/Signup' element={<SignUp/>} />
             </Routes>
             <Footer/>
+             {/* <Route path="/viewslot" component={ViewSlot} />  */}
+
            </Router>
             </div>
    
